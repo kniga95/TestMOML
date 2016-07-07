@@ -3,6 +3,15 @@
  <UILAYOUT portrait="720,1230" landscape="720,1230">
   <WINDOW layout="0,0,720,1230" defaultImg="#ffffff">
     <LABEL layout="200,200,auto,auto" text="Hello MOML !" fontSize="30" textColor="#0000ff" />
+    <BUTTON id="btn2" themeId="listButton">
+     <LABEL themeId="listItemText" text="Camera"/>
+     <LABEL themeId="listItemArrow"/>
+    </BUTTON>
+
+    <BUTTON id="btn12" themeId="listButton>
+     <LABEL themeId="listItemText" text="Uncategorized..."/>
+     <LABEL themeId="listItemArrow"/>
+    </BUTTON>
   </WINDOW>
  </UILAYOUT>
 </MOML>
