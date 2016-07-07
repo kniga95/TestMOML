@@ -3,5 +3,6 @@
  <APPLICATIONINFO>
   <START url="start.xml" /> 
   <ORIENTATION type="defaultPortrait" />
+  <AUTOFIT toleranceRatio="15"/>
  </APPLICATIONINFO>
 </MOML>
