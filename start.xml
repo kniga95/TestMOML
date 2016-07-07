@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<MOML>
 <UI>
 <UILAYOUT portrait="320,460" landscape="320,460" theme="theme1">
  <LABEL layout="0,0,320,30" themeId="title" text="Citrine API Demo"/>
@@ -17,4 +16,3 @@
 </UILAYOUT>
 </UI>
 
-</MOML>
