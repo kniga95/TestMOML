@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<UI>
-<UILAYOUT portrait="320,460" landscape="320,460" theme="theme1">
- <LABEL layout="0,0,320,30" themeId="title" text="Citrine API Demo"/>
- <WINDOW themeId="bg" layout="0,30,320,430" onCreate="{function.onCreate}"/>
- <WINDOW layout="5,35,310,400" align="linear:vertical" >
- <BUTTON id="btn2" themeId="listButton">
-<LABEL themeId="listItemText" text="Camera"/>
-<LABEL themeId="listItemArrow"/>
- </BUTTON>
- <BUTTON id="btn12" themeId="listButton>
-<LABEL themeId="listItemText" text="Uncategorized..."/>
-<LABEL themeId="listItemArrow"/>
- </BUTTON>
- </WINDOW>
-</UILAYOUT>
-</UI>
-
+<MOML>
+ <UILAYOUT portrait="720,1230" landscape="720,1230">
+  <WINDOW layout="0,0,720,1230" defaultImg="#ffffff">
+    <LABEL layout="200,200,auto,auto" text="Hello MOML !" fontSize="30" textColor="#0000ff" />
+  </WINDOW>
+ </UILAYOUT>
+</MOML>
