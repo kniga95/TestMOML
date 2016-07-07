@@ -2,11 +2,11 @@
 <MOML>
  <UILAYOUT portrait="720,1230" landscape="720,1230">
   <LABEL layout="0,0,320,100" align="relative" defaultImg="#5f5f5f">
-   <BUTTON layout="10,0,100,60" text="BACK" />
-  </LABEL>
   <WINDOW layout="0,0,720,1230" defaultImg="#ffffff">
     <LABEL layout="200,200,auto,auto" text="Hello MOML !" fontSize="30" textColor="#0000ff" />
     <BUTTON layout="100,60" text="BACK"/>
+    <BUTTON layout="10,0,100,60" text="BACK" />
+    </LABEL>
   </WINDOW>
  </UILAYOUT>
 </MOML>
